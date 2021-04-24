@@ -15,5 +15,22 @@
       "*800"
     ],
     "timestamp": "Apr/24/2021 17:50"
+  },
+  "CF114112845": {
+    "contest_id": 9,
+    "language": "MS C++ 2017",
+    "path": "codeforces\\9\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Die Roll",
+    "problem_url": "https://codeforces.com/contest/9/problem/A",
+    "submission_id": "CF114112845",
+    "submission_url": "https://codeforces.com/contest/9/submission/114112845",
+    "tags": [
+      "math",
+      "probabilities",
+      "*800"
+    ],
+    "timestamp": "Apr/24/2021 18:14"
   }
 }

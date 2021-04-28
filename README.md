@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-8 | [A - Palindromic Times](https://codeforces.com/contest/108/problem/A) | [MS C++ 2017](./codeforces/108/A.cpp) | `implementation` `strings` `*1000` | Apr/28/2021 16:40 | 
+9 | [A - Palindromic Times](https://codeforces.com/contest/108/problem/A) | [MS C++ 2017](./codeforces/108/A.cpp) | `implementation` `strings` `*1000` | Apr/28/2021 16:40 | 
+8 | [B - Choosing Laptop](https://codeforces.com/contest/106/problem/B) | [MS C++ 2017](./codeforces/106/B.cpp) | `brute force` `implementation` `*1000` | Apr/28/2021 16:38 | 
 7 | [A - Blackjack](https://codeforces.com/contest/104/problem/A) | [MS C++ 2017](./codeforces/104/A.cpp) | `implementation` `*800` | Apr/28/2021 16:23 | 
 6 | [B - Sum of Digits](https://codeforces.com/contest/102/problem/B) | [MS C++ 2017](./codeforces/102/B.cpp) | `implementation` `*1000` | Apr/28/2021 16:21 | 
 5 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [MS C++ 2017](./codeforces/263/A.cpp) | `implementation` `*800` | Apr/28/2021 16:19 | 

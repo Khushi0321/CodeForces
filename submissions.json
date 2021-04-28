@@ -113,5 +113,22 @@
       "*800"
     ],
     "timestamp": "Apr/28/2021 16:23"
+  },
+  "CF114440888": {
+    "contest_id": 108,
+    "language": "MS C++ 2017",
+    "path": "codeforces\\108\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Palindromic Times",
+    "problem_url": "https://codeforces.com/contest/108/problem/A",
+    "submission_id": "CF114440888",
+    "submission_url": "https://codeforces.com/contest/108/submission/114440888",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Apr/28/2021 16:40"
   }
 }

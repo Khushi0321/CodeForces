@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+5 | [A - Blackjack](https://codeforces.com/contest/104/problem/A) | [MS C++ 2017](./codeforces/104/A.cpp) | `implementation` `*800` | Apr/28/2021 16:23 | 
 4 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [MS C++ 2017](./codeforces/1472/A.cpp) | `greedy` `math` `*800` | Apr/26/2021 16:18 | 
 3 | [A - Strange Table](https://codeforces.com/contest/1506/problem/A) | [MS C++ 2017](./codeforces/1506/A.cpp) | `math` `*800` | Apr/26/2021 16:02 | 
 2 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [MS C++ 2017](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Apr/24/2021 18:14 | 

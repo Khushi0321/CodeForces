@@ -65,5 +65,21 @@
       "*800"
     ],
     "timestamp": "Apr/26/2021 16:18"
+  },
+  "CF114439459": {
+    "contest_id": 104,
+    "language": "MS C++ 2017",
+    "path": "codeforces\\104\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blackjack",
+    "problem_url": "https://codeforces.com/contest/104/problem/A",
+    "submission_id": "CF114439459",
+    "submission_url": "https://codeforces.com/contest/104/submission/114439459",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/28/2021 16:23"
   }
 }

@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-10 | [A - Cifera](https://codeforces.com/contest/114/problem/A) | [MS C++ 2017](./codeforces/114/A.cpp) | `math` `*1000` | Apr/29/2021 15:42 | 
+11 | [A - Cifera](https://codeforces.com/contest/114/problem/A) | [MS C++ 2017](./codeforces/114/A.cpp) | `math` `*1000` | Apr/29/2021 15:42 | 
+10 | [A - Petya and Strings](https://codeforces.com/contest/112/problem/A) | [MS C++ 2017](./codeforces/112/A.cpp) | `implementation` `strings` `*800` | Apr/29/2021 15:37 | 
 9 | [A - Palindromic Times](https://codeforces.com/contest/108/problem/A) | [MS C++ 2017](./codeforces/108/A.cpp) | `implementation` `strings` `*1000` | Apr/28/2021 16:40 | 
 8 | [B - Choosing Laptop](https://codeforces.com/contest/106/problem/B) | [MS C++ 2017](./codeforces/106/B.cpp) | `brute force` `implementation` `*1000` | Apr/28/2021 16:38 | 
 7 | [A - Blackjack](https://codeforces.com/contest/104/problem/A) | [MS C++ 2017](./codeforces/104/A.cpp) | `implementation` `*800` | Apr/28/2021 16:23 | 

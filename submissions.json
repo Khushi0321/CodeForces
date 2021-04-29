@@ -148,6 +148,23 @@
     ],
     "timestamp": "Apr/28/2021 16:40"
   },
+  "CF114520935": {
+    "contest_id": 112,
+    "language": "MS C++ 2017",
+    "path": "codeforces\\112\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petya and Strings",
+    "problem_url": "https://codeforces.com/contest/112/problem/A",
+    "submission_id": "CF114520935",
+    "submission_url": "https://codeforces.com/contest/112/submission/114520935",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/29/2021 15:37"
+  },
   "CF114521291": {
     "contest_id": 114,
     "language": "MS C++ 2017",

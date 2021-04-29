@@ -147,5 +147,21 @@
       "*1000"
     ],
     "timestamp": "Apr/28/2021 16:40"
+  },
+  "CF114521291": {
+    "contest_id": 114,
+    "language": "MS C++ 2017",
+    "path": "codeforces\\114\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cifera",
+    "problem_url": "https://codeforces.com/contest/114/problem/A",
+    "submission_id": "CF114521291",
+    "submission_url": "https://codeforces.com/contest/114/submission/114521291",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/29/2021 15:42"
   }
 }

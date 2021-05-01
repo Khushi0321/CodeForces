@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+13 | [B - Little Pigs and Wolves](https://codeforces.com/contest/116/problem/B) | [GNU C++17 (64)](./codeforces/116/B.cpp) | `greedy` `implementation` `*1100` | May/01/2021 15:37 | 
 12 | [A - Cifera](https://codeforces.com/contest/114/problem/A) | [MS C++ 2017](./codeforces/114/A.cpp) | `math` `*1000` | Apr/29/2021 15:42 | 
 11 | [A - Petya and Strings](https://codeforces.com/contest/112/problem/A) | [MS C++ 2017](./codeforces/112/A.cpp) | `implementation` `strings` `*800` | Apr/29/2021 15:37 | 
 10 | [A - Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | [MS C++ 2017](./codeforces/110/A.cpp) | `implementation` `*800` | Apr/29/2021 15:32 | 

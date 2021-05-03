@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+15 | [B - Present from Lena](https://codeforces.com/contest/118/problem/B) | [GNU C++17 (64)](./codeforces/118/B.cpp) | `constructive algorithms` `implementation` `*1000` | May/03/2021 16:13 | 
 14 | [B - Little Pigs and Wolves](https://codeforces.com/contest/116/problem/B) | [GNU C++17 (64)](./codeforces/116/B.cpp) | `greedy` `implementation` `*1100` | May/01/2021 15:37 | 
 13 | [A - Tram](https://codeforces.com/contest/116/problem/A) | [GNU C++17 (64)](./codeforces/116/A.cpp) | `implementation` `*800` | May/01/2021 15:33 | 
 12 | [A - Cifera](https://codeforces.com/contest/114/problem/A) | [MS C++ 2017](./codeforces/114/A.cpp) | `math` `*1000` | Apr/29/2021 15:42 | 

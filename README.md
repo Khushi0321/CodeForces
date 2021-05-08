@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+17 | [A - Wasted Time](https://codeforces.com/contest/127/problem/A) | [GNU C++17 (64)](./codeforces/127/A.cpp) | `geometry` `*900` | May/08/2021 18:51 | 
 16 | [B - Present from Lena](https://codeforces.com/contest/118/problem/B) | [GNU C++17 (64)](./codeforces/118/B.cpp) | `constructive algorithms` `implementation` `*1000` | May/03/2021 16:13 | 
 15 | [A - String Task](https://codeforces.com/contest/118/problem/A) | [GNU C++17 (64)](./codeforces/118/A.cpp) | `implementation` `strings` `*1000` | May/03/2021 16:07 | 
 14 | [B - Little Pigs and Wolves](https://codeforces.com/contest/116/problem/B) | [GNU C++17 (64)](./codeforces/116/B.cpp) | `greedy` `implementation` `*1100` | May/01/2021 15:37 | 
